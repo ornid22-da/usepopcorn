@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 ![image](https://github.com/user-attachments/assets/21596251-7b21-49ee-8e86-51cdad4720e1)
 
 ## Opening a movie
-### CLicking on a movie from the search opens the movie details
+### Cicking on a movie from the search opens the movie details
 ![image](https://github.com/user-attachments/assets/420b0b5c-a9e7-4d41-861c-095323f5cf83)
 
 ## Adding a movie to the list
