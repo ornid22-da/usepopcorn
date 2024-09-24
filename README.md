@@ -1,4 +1,5 @@
 # usePopcorn - Keep track of your Favorite movies/shows
+## Made with React.js
 
 ## Something about scripts...
 
